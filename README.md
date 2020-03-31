@@ -2,6 +2,7 @@
 ## What is ArxivScraper?
 This program is to get arxiv information from terminal.
 
+
 ## Usage
 ### 3: move to home foleder
 ```
@@ -51,7 +52,7 @@ arxiv () {
 source ~/.bashrc or source ~/.zshrc
 ```
 
-### 3 user arxiv command
+### 3 use arxiv command
 ```
 arxiv [search word]
 ```
