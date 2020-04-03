@@ -5,7 +5,7 @@ This program is to get arxiv information from terminal.
 ![arxiv](./images/arxiv.png)
 
 ## Usage
-### 3: move to home foleder
+### : move to home foleder
 ```
 cd ~
 ```
